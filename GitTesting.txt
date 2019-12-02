@@ -7,12 +7,5 @@ $git add . or $git add 'file name'
 $git commit -am 'code commit messges here'
 $git push origin development
 
-$
-$
-$
-$
-$
-$
-$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 
