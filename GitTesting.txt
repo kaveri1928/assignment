@@ -1,0 +1,10 @@
+Cloning project from Github:
+$git clone 'git url'
+
+Pushing code into branch(development) on Github:
+$git status
+$git add . or $git add 'file name'
+$git commit -am 'code commit messges here'
+$git push origin development
+
+
